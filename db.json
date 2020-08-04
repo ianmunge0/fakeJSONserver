@@ -1,18 +1,26 @@
 {
-  {
+  "user1": {
     "id": 1,
-    "name": "John Doeee",
+    "name": "John Doe",
     "email": "john@doe.com",
     "address": {
       "street": "Street A"
     }
   },
-  {
+  "user2": {
     "id": 2,
     "name": "Jane Doe",
     "email": "jane@doe.com",
     "address": {
       "street": "Street B"
+    }
+  },
+  "user3": {
+    "id": 3,
+    "name": "Junior Doe",
+    "email": "junior@doe.com",
+    "address": {
+      "street": "Street C"
     }
   }
 }
